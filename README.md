@@ -6,4 +6,4 @@ This is EDA project based on topic Play store App review
 
 This is an EDA capstone project on Play store App review, for [Alma Better](https://www.almabetter.com/) full stack data science course
 
-![Google_Play-Logo.wine.jpg](https://github.com/Nileshkl/Play-Store-App-Review-Analysis-EDA/
+![Google_Play-Logo.wine.jpg](https://github.com/Nileshkl/Play-Store-App-Review-Analysis-EDA/blob/main/Google_Play-Logo.wine.jpg?raw=true)
