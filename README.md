@@ -1,5 +1,5 @@
 # :star: Google Playstore App Review Analysis (EDA) :star:
-This is EDA project based on topic Play store App review
+This is EDA Capstone project based on topic Google Playstore App Review Analysis
 ---
 
 ## Description
