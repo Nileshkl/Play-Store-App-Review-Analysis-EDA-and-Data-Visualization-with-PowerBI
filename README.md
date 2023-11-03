@@ -1,4 +1,4 @@
-# Play-Store-App-Review-Analysis-EDA
+# :star: Google Playstore App Review Analysis (EDA) :star:
 This is EDA project based on topic Play store App review
 ---
 
