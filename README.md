@@ -1,11 +1,14 @@
-# :star: Google Playstore App Review Analysis (EDA) & Data Visualization using Power BI :star:
-This is EDA Capstone project based on topic Google Playstore App Review Analysis
+# :star: Google Playstore App Review Analysis (EDA) &
+# :star: Data Visualization using Power BI :star:
+---
+This is EDA Capstone project based on topic Google Playstore App Review Analysis and Data Visualization using Power BI
 ---
 
 ## Description
 
 This is an EDA capstone project on Play store App review, for [AlmaBetter](https://www.almabetter.com/) full stack data science course
 ## Data Visualization using Power BI
+![playstore_dashboard.jpg](https://github.com/Nileshkl/Play-Store-App-Review-Analysis-EDA/blob/74d9da32153b9d32cbb36250fa47725f752d3ad1/playstore_dashboard.jpg)
 
 
 ---
